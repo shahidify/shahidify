@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-### I'm Shahid Khan
+## I'm Shahid Khan
 
 - 🔭 I’m currently working on JavaScript, React, Redux, Gatsby
 - 🌱 I’m currently learning GOlang
