@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on JavaScript, React, Redux, Gatsby
 - 🌱 I’m currently learning GOlang
-- 🤔 I’m looking for.. well... A new job by the end of the year 2020
+- 🤔 I’m looking for.. well... A new job by the end of the year
 - 💬 Ask me about JavaScript, 
 - 📫 Reach me: twitter.com/shahidify 
 - ⚡ Fun fact: ...
