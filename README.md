@@ -7,8 +7,7 @@
 ## I'm Shahid Khan
 
 - 🔭 I’m currently working on JavaScript, React, Redux, Gatsby
-- 🌱 I’m currently learning GOlang
-- 🤔 I’m looking for.. well... A new job by the end of the year
-- 💬 Ask me about JavaScript, 
+- 🌱 I’m currently learning Gatsby, Next.js
+- 💬 Ask me about JavaScript, Football ⚽️, Food
 - 📫 Reach me: twitter.com/shahidify 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I don't have Jokes 
