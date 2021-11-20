@@ -6,8 +6,10 @@
 
 ## I'm Shahid Khan
 
-- 🔭 I’m currently working on JavaScript, React, Redux, Gatsby
+- 🔭 I’m currently working on JavaScript, React, Redux, Material-UI
 - 🌱 I’m currently learning Gatsby, Next.js
-- 💬 Ask me about JavaScript, Football ⚽️, Food
+- 📈📊 Love to work with Data visualization
+
+- 💬 Ask me about JavaScript, Football ⚽️, Food (Indian)
 - 📫 Reach me: twitter.com/shahidify 
-- ⚡ Fun fact: I don't have Jokes 
+- ⚡ (not)Fun fact: I don't have Jokes 
