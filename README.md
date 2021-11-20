@@ -13,3 +13,5 @@
 - 💬 Ask me about JavaScript, Football ⚽️, Food (Indian)
 - 📫 Reach me: twitter.com/shahidify 
 - ⚡ (not)Fun fact: I don't have Jokes 
+
+and yes, My profile headshot 📸 is old
