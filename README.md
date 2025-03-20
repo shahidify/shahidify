@@ -4,10 +4,10 @@
 
 ### Hi there 👋
 
-## I'm Shahid Khan
+## I'm Shahid 
 
-- 🔭 I’m currently working on JavaScript, React, Redux, Material-UI
-- 🌱 I’m currently learning Gatsby, Next.js
+- 🔭 currently working on JavaScript, React, Typescript, Zustand, Redux, Material-UI and other web tech
+- 🌱 I’m currently learning GraphQL
 - 📈📊 Love to work with Data visualization
 
 - 💬 Ask me about JavaScript, Football ⚽️, Food (Indian)
