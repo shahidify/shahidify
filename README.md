@@ -2,16 +2,34 @@
 **shahidify/shahidify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there 👋
+💻 Tech Craftsman
+- 18+ years building enterprise web applications
+- Tech Lead of modern React & TypeScript ecosystems
+- Performance optimization specialist
+- Accessibility advocate ensuring WCAG compliance
 
-## I'm Shahid 
+🛠️ Current Toolkit
+- JavaScript TypeScript React Redux Zustand Material-UI Node.js GraphQL
 
-- 🔭 currently working on JavaScript, React, Typescript, Zustand, Redux, Material-UI and other web tech
-- 🌱 I’m currently learning GraphQL
-- 📈📊 Love to work with Data visualization
+📊 Data Visualization Enthusiast
+- Transforming complex metrics into actionable insights through beautiful, interactive visualizations. From Topology views to SLA dashboards, I make data tell compelling stories.
 
-- 💬 Ask me about JavaScript, Football ⚽️, Food (Indian)
-- 📫 Reach me: twitter.com/shahidify 
-- ⚡ (not)Fun fact: I don't have Jokes 
+🌱 Always Growing
+- Currently exploring advanced GraphQL patterns and next-gen state management approaches.
 
-and yes, My profile headshot 📸 is old
+💬 Let's Talk About
+- Frontend architecture that scales
+- Performance optimization techniques
+- Football ⚽️ (the real kind)
+- Authentic Indian cuisine 🍛
+
+📫 Connect
+LinkedIn: www.linkedin.com/in/mohammed-shahid-khan
+
+Email: shahid.manit@gmail.com
+
+⚡ (Actually) Fun Fact
+Proving great frontend work has measurable business impact!
+
+And yes, I'll update that profile photo... eventually 📸
+
