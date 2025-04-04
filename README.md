@@ -9,7 +9,7 @@
 - Accessibility advocate ensuring WCAG compliance
 
 🛠️ Current Toolkit
-- JavaScript TypeScript React Redux Zustand Material-UI Node.js GraphQL
+- JavaScript | HTML/CSS | TypeScript | React | Redux | Zustand | Material-UI | Node.js | GraphQL
 
 📊 Data Visualization Enthusiast
 - Transforming complex metrics into actionable insights through beautiful, interactive visualizations. From Topology views to SLA dashboards, I make data tell compelling stories.
