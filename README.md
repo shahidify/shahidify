@@ -19,17 +19,15 @@
 
 💬 Let's Talk About
 - Frontend architecture that scales
-- Performance optimization techniques
-- Football ⚽️ (the real kind)
+- Performance optimization and Components
+- Football ⚽️ ( not this 🏈 )
 - Authentic Indian cuisine 🍛
 
 📫 Connect
 LinkedIn: www.linkedin.com/in/mohammed-shahid-khan
 
-Email: shahid.manit@gmail.com
-
 ⚡ (Actually) Fun Fact
 Proving great frontend work has measurable business impact!
 
-And yes, I'll update that profile photo... eventually 📸
+And yes, Profile pic is old and I'll update in a few years or may be earlier... eventually 📸
 
