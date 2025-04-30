@@ -3,13 +3,13 @@
 -->
 
 💻 Tech Craftsman
-- 18+ years building enterprise web applications
+- Extensive experience in building enterprise web applications
 - Tech Lead of modern React & TypeScript ecosystems
 - Performance optimization specialist
 - Accessibility advocate ensuring WCAG compliance
 
 🛠️ Current Toolkit
-- JavaScript | HTML/CSS | TypeScript | React | Redux | Zustand | Material-UI | Node.js | GraphQL
+- JavaScript | HTML/CSS | TypeScript | React | Redux | Zustand | Material-UI | Node.js | GraphQL | Java | Tech Leadership
 
 📊 Data Visualization Enthusiast
 - Transforming complex metrics into actionable insights through beautiful, interactive visualizations. From Topology views to SLA dashboards, I make data tell compelling stories.
