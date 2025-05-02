@@ -8,6 +8,8 @@
 - Performance optimization specialist
 - Accessibility advocate ensuring WCAG compliance
 
+🎓 Maulana Azad National Institute of Technology (NIT/REC), Bhopal, India 
+
 🛠️ Current Toolkit
 - JavaScript | HTML/CSS | TypeScript | React | Redux | Zustand | Material-UI | Node.js | GraphQL | Java | Tech Leadership
 
