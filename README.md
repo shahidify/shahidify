@@ -11,7 +11,7 @@
 🎓 Maulana Azad National Institute of Technology (NIT/REC), Bhopal, India 
 
 🛠️ Current Toolkit
-- JavaScript | HTML/CSS | TypeScript | React | Redux | Zustand | Material-UI | Node.js | GraphQL | Java | Tech Leadership
+- JavaScript | HTML/CSS |  React | Redux | Vue.js | TypeScript | Zustand | Material-UI | Node.js | GraphQL | Java | Tech Leadership
 
 📊 Data Visualization Enthusiast
 - Transforming complex metrics into actionable insights through beautiful, interactive visualizations. From Topology views to SLA dashboards, I make data tell compelling stories.
