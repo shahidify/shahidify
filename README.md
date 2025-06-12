@@ -4,7 +4,7 @@
 
 💻 Tech Craftsman
 - Extensive experience in building enterprise web applications
-- Tech Lead of modern React & TypeScript ecosystems
+- Technical Leader and mentor
 - Performance optimization specialist
 - Accessibility advocate ensuring WCAG compliance
 
